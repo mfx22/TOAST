@@ -1,8 +1,8 @@
 /* 
- * File:   main.c
- * Author: Sean Carroll  (swc63)
+ * File:   final.c
+ * Author: Michael Xiao & Katie Bradford
  *
- * Created on September 30, 2016
+ * Created on December 13, 2018
  */
 #define _SUPPRESS_PLIB_WARNING 1
 #include "config.h"
