@@ -1,3 +1,9 @@
+# ToastBot python code
+# Used for Raspberry Pi on ToastBot
+# Michael Xiao and Katie Bradford
+
+# Takes input of weather, image, or sketch and sends commands to PIC32 to operate motors
+
 from PIL import Image
 from gpiozero import LED, Button
 import time
